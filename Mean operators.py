@@ -1,0 +1,12 @@
+#average
+S=23
+R=86
+I=92
+L=10
+E=96
+K=85
+H=73
+A=38
+Sum=(S+R+I+L+E+K+H+A)
+avg=Sum/8
+print(avg)
